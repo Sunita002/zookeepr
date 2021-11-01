@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/Sunita002/zookeepr#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "inquirer": "^8.2.0"
   },
   "description": ""
 }
